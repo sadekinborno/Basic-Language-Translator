@@ -34,7 +34,7 @@ Follow these steps to set up and run the project:
 
 Open the translator.ipynb file in Google Colab or Jupyter Notebook.
 
-Create a new code & run "!pip install transformers sentencepiece" once to import the library.
+Create a new code & run "!pip install transformers sentencepiece" once to import the libraries.
 
 Now run the code. 
 
